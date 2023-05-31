@@ -75,3 +75,29 @@ footer{
     color: rgb(255, 255, 255);
     font-size: 13px;
 }
+
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+form{
+    margin: 40px 0;
+}
+form label, form p{
+    display: block  ;
+    font-size: 20px;
+    margin: 0px 0px 10px;
+}
+
+.input-padrao{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 15px;
+    width: 50%;
+ 
+}
+.checkbox{
+    margin: 20px 0;
+}
+
+
