@@ -99,5 +99,35 @@ form label, form p{
 .checkbox{
     margin: 20px 0;
 }
+.enviar{
+   
+    width: 40%;
+   padding: 15px 0;
+  color: rgb(153, 126, 92);
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background: rgb(182, 175, 161);
+  transition: 1s all;
+}
 
+.enviar:hover{ 
+    background:rgb(72, 44, 121);
+  /* transform: rotate(70deg) scale(1.2);*/
+ }
+ table{
+    margin: 20px 0 40px;
+ }
 
+ thead{
+    background: #838080;
+    color: white;
+    font-weight: bold;
+}
+td{
+    border: 1px solid #000000;
+   padding: 8px 15px;
+   
+}
